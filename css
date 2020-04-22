@@ -1,4 +1,25 @@
+#droite{
+padding: 1px;
+    width: 25%;
+    margin: 5px;
+  background-color: red;  
+}
+#center{
+padding: 1px;
+    width: 25%;
+    margin: 5px;
+  background-color: red;  
+}
+#gauche{
+padding: 1px;
+    width: 25%;
+    margin: 5px;
+  background-color: red;  
+}
+
 h1{
-text-align: center;
+ text-align: center;   
+    color: red;
+    
 }
 
