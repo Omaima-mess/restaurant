@@ -28,15 +28,15 @@ section
 *{
 	box-sizing:border-box;
 }
-.sec1 >div
+#droite>div
 {
 	background-color: pink;
 }
-.sec2>div
+#center>div
 {
 	background-color:#F95C5B;
 }
-.sec3>div
+#gauche>div
 {
 	background-color: #78F479;
 }
@@ -47,17 +47,17 @@ section
 	width: 30%;
 	float: left;
 }
-.sec1
+#droite
 {
 	margin-left:2.5%;
     margin-right:1.25%;
 }
-.sec2
+#center
 {
 	margin-left:1.25%;
     margin-right:1.25%;
 }
-.sec3
+#gauche
 {
 	margin-left:1.25%;
     margin-right:2.5%;
@@ -70,18 +70,18 @@ section
 	width:48.5%;
 	float: left;
 }
-.sec1
+#droite
 {
 	margin-left:1%;
     margin-right:0.5%;
 }
-.sec2
+#center
 {
 	margin-left:0.5%;
     margin-right:1%;
 }
 
-.sec3
+#gauche
 {
 	width: 98%;
 	margin-left:1%;
