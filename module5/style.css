@@ -9,3 +9,9 @@ body{
     border-radius: 0;
     border:0;
 }
+#logo-img{
+    background:url('../images/restaurant-logo.png') no-repeat;
+    width: 150px;
+    height: 100px;
+    margin:5px;
+}
